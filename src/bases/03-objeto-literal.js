@@ -10,7 +10,7 @@ const persona = {
 
 //Usar ... para crear un objeto nuevo y no alterar el anterior
 const persona2 = {...persona};
-persona2.nombre = 'Oeeee';
+persona2.nombre = 'Katsura';
 
 console.log(persona);
 //console.table(persona);

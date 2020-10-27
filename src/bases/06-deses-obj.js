@@ -24,7 +24,7 @@ const persona = {
 // // console.log(persona.edad);
 // // console.log(persona.clave);
 
-const useContext = ({clave, nombre, edad, rango = 'Captain Katsuura'}) => {
+const useContext = ({clave, nombre, edad, rango = 'Capitan'}) => {
 
     //console.log(`Nombre: ${nombre} | Edad: ${edad} | Rango: ${rango}`);
 

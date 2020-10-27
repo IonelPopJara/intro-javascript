@@ -11,7 +11,7 @@
 
 const saludar3 = (nombre) => `Hola ${nombre}${nombre}!`;
 
-const saludar4 = () => `Holas Desu!`;
+const saludar4 = () => `Holas!`;
 
 //console.log(saludar('Mults'));
 console.log(saludar3('Mults'));

@@ -5,7 +5,7 @@ const nombreCompleto = `${nombre} ${apellido}`;
 
 function getGreetings(nombre)
 {
-    return 'Oeeee Temeraaaaa! Boku wa ' + nombre + '-sama dakara na!';
+    return 'Hola ' + nombre + '!!!';
 }
 
 console.log(nombreCompleto);
